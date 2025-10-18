@@ -8,7 +8,7 @@ I created a gradebook program that lets you add students, record their grades, a
 
 My goal was to learn how Java works by building something practical. I focused on understanding how to organize code, handle different types of information, and create menus that are easy to use.
 
-[Software Demo Video](https://youtu.be/7SOiiFx-4D0) *Note: You'll need to create and upload your own video*
+[Software Demo Video](https://youtu.be/7SOiiFx-4D0)
 
 ## Development Environment
 
